@@ -16,7 +16,7 @@ get_template_part('inc/partials/partial', 'navbar'); ?>
         </div>
       <?php endif; ?>
 
-      <div class="col s12 m12 l8 offset-l1">
+      <div class="col s12 m12 l9 offset-l1">
         <div class="card-panel">
           <h1><?php the_title(); ?></h1>
             <?php 

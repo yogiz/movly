@@ -34,7 +34,7 @@
 <footer class="page-footer grey lighten-4">
   <div class="footer-copyright grey darken-3 grey-text text-lighten-1">
     <div class="container">
-      <p>&copy; <?php echo Date('Y'); ?> <?php bloginfo('name'); ?><span class="right"><small>Powered by <a href="https://github.com/theakshaydhiman/movly" rel="noopener" target="_blank">movly</a></small></span></p>
+      <p>&copy; <?php echo Date('Y'); ?> <?php bloginfo('name'); ?><span class="right"><small>Powered by <a href="#" rel="noopener" target="_blank">movly</a></small></span></p>
     </div>
   </div>
 </footer>

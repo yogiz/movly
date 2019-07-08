@@ -22,7 +22,7 @@ if ( post_password_required() )
 
     $args = array(
       'style'             =>  'div',
-      'avatar_size'       =>  90,
+      'avatar_size'       =>  50,
       'format'            =>  'html5',
       'callback'          =>  'mwp_comments_callback'
       );

@@ -17,8 +17,8 @@ function mwp_comments_callback( $comment, $args, $depth ) {
 		$c_check_parent = '';
 	} else {
 		// this is a comment
-		$c_check_img = 'col s12 m2 l2';
-		$c_check_card = 'col s12 m10 l10';
+		$c_check_img = 'col s12 m2 l1';
+		$c_check_card = 'col s12 m10 l11';
 		$c_check_parent = 'row';
 	}
 
